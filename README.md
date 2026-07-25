@@ -111,6 +111,12 @@ Three machine learning models were evaluated on the Parkinson's Disease dataset.
 | SVC | **89.7%** | 93.1% | **93.1%** | **93.1%** |
 | KNN | 87.2% | **100%** | 82.8% | 90.6% |
 | Gaussian Naive Bayes | 64.1% | 94.1% | 55.2% | 69.6% |
+## Confusion Matrices
 
+<p align="center">
+  <img src="images/confusion_matrix_svc.png" width="32%">
+  <img src="images/confusion_matrix_knn.png" width="32%">
+  <img src="images/confusion_matrix_nb.png" width="32%">
+</p>
 ### Best Model
 Support Vector Classifier (SVC) achieved the best overall performance, providing the highest Accuracy, Recall, and F1-score while maintaining high Precision. Therefore, SVC was selected as the final model for this project.
