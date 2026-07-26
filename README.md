@@ -94,7 +94,7 @@ The project evaluates machine learning models using standard classification metr
 
 **Erfan Nemati**
 
-GitHub: https://github.com/Eerfan-Nemati
+GitHub: https://github.com/Erfan-Nemati
 
 ---
 
